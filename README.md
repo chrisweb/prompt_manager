@@ -1,6 +1,12 @@
-# prompt db
+# prompt files db
 
+on windows put the prompts into: `C:\Users\YOUR_USERNAME\AppData\Roaming\Code\User\prompts`
+or put them into the `.github/prompts` directory of your workspace (your project)
 
+to use prompts the docs state you can use `ctrl + shift + p`, then write "Chat: Run prompt" to run a prompt
+but you can type `/` in the chat to get a list of your custom prompts
+
+to create prompts either put them manually into the respective folders, or use `ctrl + shift + p`, then type "Chat: New", then select "Chat: New Prompt file..."
 
 ## using prompts with github copilot
 

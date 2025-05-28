@@ -20,7 +20,7 @@ to create prompts either put them manually into the respective folders, or use `
 
 ## documentation
 
-the github copilot documentation has the "prompt files" and "instructions" mixed in one documentation: [https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot](github docs: copilot chat prompt files)
+the github copilot documentation has the "prompt files" and "instructions" mixed in one documentation: [github docs: copilot chat prompt files](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 
 the vscode documentation seems more informative than the github one: [VSCode documentation: github copilot prompts](https://code.visualstudio.com/docs/copilot/copilot-customization#_reusable-prompt-files-experimental)
 
